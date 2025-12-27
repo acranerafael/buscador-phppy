@@ -1,6 +1,6 @@
 # PyPHP: Hybrid Search Engine Boilerplate
 
-Este repositório serve como um **boilerplate** e prova de conceito (PoC) para a integração de **PHP** (Hypertext Preprocessor) com **Python** em um ambiente web, demonstrando uma arquitetura híbrida onde o PHP atua como frontend/controller e o Python como backend de processamento de dados intensivo.
+Este repositório serve como um **boilerplate** para a integração de **PHP** (Hypertext Preprocessor) com **Python** em um ambiente web, demonstrando uma arquitetura híbrida onde o PHP atua como frontend/controller e o Python como backend de processamento de dados intensivo.
 
 ## 🚀 Metodologia e Arquitetura
 
