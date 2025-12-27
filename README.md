@@ -52,7 +52,7 @@ A interface é construída com HTML5 semântico e CSS3, focando em usabilidade e
 5. Acesse `index.php` no navegador.
 ---
 
-Co-authored-by: bilibidum <bilibidum@gmail.com>
+Co-authored-by: Astanga Bilibidum <bilibidum@gmail.com>
 
 ---
 *Este projeto é um exemplo de interoperabilidade entre linguagens de script no backend, ideal para cenários onde se deseja aproveitar bibliotecas específicas do ecossistema Python dentro de uma aplicação PHP legada ou consolidada.*
