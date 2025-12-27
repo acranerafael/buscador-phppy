@@ -50,6 +50,9 @@ A interface é construída com HTML5 semântico e CSS3, focando em usabilidade e
 3. Configure o servidor web para servir o diretório do projeto.
 4. Popule o arquivo `data.txt` com o conteúdo a ser indexado.
 5. Acesse `index.php` no navegador.
+---
+
+Co-authored-by: bilibidum <bilibidum@gmail.com>
 
 ---
 *Este projeto é um exemplo de interoperabilidade entre linguagens de script no backend, ideal para cenários onde se deseja aproveitar bibliotecas específicas do ecossistema Python dentro de uma aplicação PHP legada ou consolidada.*
